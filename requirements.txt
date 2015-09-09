@@ -5,5 +5,5 @@ uwsgi
 tencentyun
 requests
 djangorestframework
-BeautifulSoup
+beautifulsoup4
 oauth2
