@@ -6,4 +6,3 @@ tencentyun
 requests
 djangorestframework
 beautifulsoup4
-oauth2
