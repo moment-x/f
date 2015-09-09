@@ -1,0 +1,9 @@
+Django
+mysqlclient
+celery
+uwsgi
+tencentyun
+requests
+djangorestframework
+BeautifulSoup
+oauth2

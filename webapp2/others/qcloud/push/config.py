@@ -1,0 +1,2 @@
+ACCESS_ID = 2200132715
+SECRET_KEY = 'aab48ad3def5f9d075cb39caf6ac9bc9'
