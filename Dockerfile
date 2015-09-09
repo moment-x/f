@@ -19,7 +19,7 @@ COPY . /usr/src/app
 
 RUN pip install -r requirements.txt
 
-RUN wget https://github.com/evernote/evernote-sdk-python3/archive/master.zip;cd evernote-sdk-python3-master;python setup.py install
+RUN wget https://github.com/evernote/evernote-sdk-python3/archive/master.zip;unzip master.zip;cd evernote-sdk-python3-master;python setup.py install
 
 CMD uwsgi --ini /usr/src/app/webapp2/webapp2/wsgi.ini
 
